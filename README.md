@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **amashaarundathi123@gmail.com**
 
+check out my figma design:[here](https://github.com/Amashaarundathi)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amasha arundathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amasha arundathi" height="30" width="40" /></a>
