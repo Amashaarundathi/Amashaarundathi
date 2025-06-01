@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amashaarundathi123@gmail.com**
 
-check out my figma design:[here](https://github.com/Amashaarundathi)
+check out my figma design:[here](https://www.figma.com/@Amashaarundathi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
