@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Amasha Arundathi</h1>
 
 <h3 align="center">
-Final Year Computer Science Undergraduate | QA Engineer | Automation Testing Learner
+ QA Engineer | Automation Testing Learner
 </h3>
 
 <p align="center">
