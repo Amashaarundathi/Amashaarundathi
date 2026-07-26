@@ -150,21 +150,7 @@ UI/UX redesign prototype created using Figma.
 
 ---
 
-# 📌 Goals for 2026
 
-✅ Complete QA Internship
-
-✅ Master Selenium Automation
-
-✅ Learn REST Assured
-
-✅ Build Automation Testing Framework
-
-✅ Contribute to Open Source
-
-✅ Become a Software QA Engineer
-
----
 
 # 💡 Favorite Quote
 
