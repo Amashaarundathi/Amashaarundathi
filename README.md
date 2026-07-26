@@ -115,15 +115,6 @@ UI/UX redesign prototype created using Figma.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amashaarundathi&theme=algolia&column=4"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
