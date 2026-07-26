@@ -1,23 +1,199 @@
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Amasha Arundathi</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amashaarundathi&label=Profile%20views&color=0e75b6&style=flat" alt="amashaarundathi" /> </p>
+<h3 align="center">
+Final Year Computer Science Undergraduate | QA Engineer | Automation Testing Learner
+</h3>
 
----
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **amashaarundathi123@gmail.com**
-
-check out my figma design:[here](https://www.figma.com/@Amashaarundathi)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amasha arundathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amasha arundathi" height="30" width="40" /></a>
-<a href="https://fb.com/arundathi edirisinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arundathi edirisinha" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/1339598014087692308/1339598014087692310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1339598014087692308/1339598014087692310" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Software+Quality+Assurance+Enthusiast;Automation+Testing+Learner;Java+%7C+Selenium+%7C+TestNG+%7C+SQL;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amashaarundathi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 Final Year Computer Science Undergraduate at Eastern University, Sri Lanka
+
+🧪 Passionate about Software Quality Assurance and Automation Testing
+
+💻 Interested in Java, Selenium, API Testing, SQL, and Software Development
+
+🌱 Currently learning:
+
+- Selenium 
+- TestNG
+- API Testing
+- SQL
+- .NET
+
+📫 Email:
+
+**amashaarundathi123@gmail.com**
+
+🎨 Figma Portfolio
+
+https://www.figma.com/@Amashaarundathi
+
+---
+
+# 🚀 Featured Projects
+
+### 🚧 Smart Pothole Detection System
+
+AI-powered pothole detection system using **YOLO, Python, OpenCV, FastAPI**, voice alerts and risk measurement.
+
+---
+
+### 📄 Image To PDF Converter
+
+Python desktop application for converting images into PDF files.
+
+---
+
+### 🩺 First Aid Expert System
+
+Rule-based expert system developed using Prolog.
+
+---
+
+### ✅ To-Do Application
+
+Simple task management application.
+
+---
+
+### 🎨 CEB Care Mobile App Redesign
+
+UI/UX redesign prototype created using Figma.
+
+---
+
+# 🛠 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,idea&perline=5"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+
+<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="45"/>
+
+</p>
+
+---
+
+
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amashaarundathi&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amashaarundathi&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=amashaarundathi&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amashaarundathi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amashaarundathi&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/amasha-arundathi-73467a2a9/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+
+<a href="mailto:amashaarundathi123@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://www.figma.com/@Amashaarundathi">
+<img src="https://skillicons.dev/icons?i=figma" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Java, Python, JavaScript, HTML, CSS |
+| Database | MySQL |
+| Testing | Selenium , TestNG, Postman |
+| Version Control | Git, GitHub |
+| IDEs | IntelliJ IDEA, VS Code |
+| UI Design | Figma |
+
+---
+
+# 📌 Goals for 2026
+
+✅ Complete QA Internship
+
+✅ Master Selenium Automation
+
+✅ Learn REST Assured
+
+✅ Build Automation Testing Framework
+
+✅ Contribute to Open Source
+
+✅ Become a Software QA Engineer
+
+---
+
+# 💡 Favorite Quote
+
+> **"Quality is never an accident; it is always the result of intelligent effort."**
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my profile ⭐
+
+</p>
